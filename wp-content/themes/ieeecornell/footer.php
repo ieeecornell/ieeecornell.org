@@ -49,11 +49,11 @@
 				<p>For general inquiries, email <a href="mailto:ieee@ece.cornell.edu">ieee@ece.cornell.edu</a>.</p>
 				<dl>
 					<dt>President</dt>
-						<dd>Udit Gupta</dd>
+						<dd>Judy Stephen</dd>
 					<dt>Vice President</dt>
-						<dd>Christine Soong</dd>
+						<dd>Cameron Boroumand</dd>
 				</dl>
-				<p>Meet the rest of the <a href="<?php echo site_url(); ?>/eboard/">executive board</a>!</p>
+				<p>Meet the rest of the <a href="<?php echo site_url(); ?>/about/executive-board/">executive board</a>!</p>
 			</div>
 			<div class="col col-1-2">
 				<h2>Join our listserv!</h2>
