@@ -49,9 +49,7 @@
 				<p>For general inquiries, email <a href="mailto:ieee@ece.cornell.edu">ieee@ece.cornell.edu</a>.</p>
 				<dl>
 					<dt>President</dt>
-						<dd>Judy Stephen</dd>
-					<dt>Vice President</dt>
-						<dd>Cameron Boroumand</dd>
+						<dd>Rohan Patel</dd>
 				</dl>
 				<p>Meet the rest of the <a href="<?php echo site_url(); ?>/about/executive-board/">executive board</a>!</p>
 			</div>
